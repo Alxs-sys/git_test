@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+  module1.cpp
+  module2.cpp
+  module3.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка D:\Код С++\x64\Debug\ConsoleApplication1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ConsoleApplication1.vcxproj -> D:\Код С++\x64\Debug\ConsoleApplication1.exe
