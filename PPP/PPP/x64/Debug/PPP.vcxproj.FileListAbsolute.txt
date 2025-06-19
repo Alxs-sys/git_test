@@ -1,0 +1,6 @@
+C:\Users\student\Documents\harisov205\PPP\PPP\x64\Debug\PPP.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\harisov205\PPP\PPP\x64\Debug\PPP.MyForm.resources
+C:\Users\student\Documents\harisov205\PPP\PPP\x64\Debug\PPP.vcxproj.GenerateResource.cache
+D:\PPP\PPP\x64\Debug\PPP.vcxproj.AssemblyReference.cache
+D:\PPP\PPP\x64\Debug\PPP.MyForm.resources
+D:\PPP\PPP\x64\Debug\PPP.vcxproj.GenerateResource.cache
