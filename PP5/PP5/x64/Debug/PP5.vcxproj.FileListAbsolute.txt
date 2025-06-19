@@ -1,0 +1,6 @@
+C:\Users\student\Documents\harisov205\PP5\PP5\x64\Debug\PP5.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\harisov205\PP5\PP5\x64\Debug\PP5.MyForm.resources
+C:\Users\student\Documents\harisov205\PP5\PP5\x64\Debug\PP5.vcxproj.GenerateResource.cache
+D:\PP5\PP5\x64\Debug\PP5.vcxproj.AssemblyReference.cache
+D:\PP5\PP5\x64\Debug\PP5.MyForm.resources
+D:\PP5\PP5\x64\Debug\PP5.vcxproj.GenerateResource.cache
